@@ -67,4 +67,10 @@ I am currently working on this repo, in the next few weeks I will provide:
 
 - Examples and benchmarks.
 
-- English translation of reports.
+---
+
+## Author
+
+Created by Mattia Cocco as part of Decision Science and Graph and network Optimization projects, University of Cagliari, MSc in Computer Science.  
+
+Feel free to fork.
